@@ -19,7 +19,7 @@ Get started:
 5. Using a text editor, make changes to the files based on the following rules:
    - You are working on a space elevator construction team.
    - As a part of your daily assignment, you are given a list of tasks to be completed.
-   - Each task is written in the form of a simple text file. An example has been given.
+   - Each task is written in the form of a simple text file. An example has been given in the *rapteon* folder.
    - Each task file exists in a folder named after you, and the filename is the date on which the task list was assigned. The file is a markdown file.
    - Mark each task as done by placing a '- [x]' before the beginning of the line in your file. Incomplete tasks can be marked by '- [ ]' at the beginning.
 6. You will be required to make a new folder with your name, or pseudonym, and create a new task file in the folder. All tasks mentioned in the file must not be completed yet.
