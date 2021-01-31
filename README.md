@@ -22,7 +22,7 @@ Get started:
    - Each task is written in the form of a simple text file. An example has been given in the *rapteon* folder.
    - Each task file exists in a folder named after you, and the filename is the date on which the task list was assigned. The file is a markdown file.
    - Mark each task as done by placing a '- [x]' before the beginning of the line in your file. Incomplete tasks can be marked by '- [ ]' at the beginning.
-6. You will be required to make a new folder with your name, or pseudonym, and create a new task file in the folder. All tasks mentioned in the file must not be completed yet.
+6. You will be required to make a new folder with your GitHub username (or pseudonym), and create a new task file in the folder. All tasks mentioned in the file must not be marked as completed yet.
 7. Commit this file.
 8. Play with the list of tasks, marking some of them as completed. You can even mark them as incomplete.
 9. When you become comfortable with committing changes, try creating a new branch and editing someone else's task.
